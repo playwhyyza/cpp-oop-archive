@@ -1,0 +1,11 @@
+หมู่บ้าน  ถนน แขวง เขต จังหวัด ประเทศ ไปรษณีย์
+
+ข้อ 7 ไปเรียน constructor หลาย ๆ แบบ ไม่ว่าจะเป็นจาก student หริอ teacher หรือ person
+
+หมู่บ้าน = village
+ซอย = soi
+ถนน = road
+เขต = district
+จังหวัด = province
+ประเทศ = country
+ไปรษณีย์ = postal
